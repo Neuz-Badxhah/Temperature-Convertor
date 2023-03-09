@@ -1,0 +1,49 @@
+Welcome to temperature converter
+______________________________
+______________________________
+What do you want to change?
+_____________________________
+Fahrenheit
+Kelvin
+Celsius
+You choose: 3
+Enter your option:
+_____________________________
+Fahrenheit to celsius
+Kelvin to Celsius
+You choose: 1
+Enter the value of Fahrenheit temperature: 32
+The Fahrenheit value is 32.00
+The value of Fahrenheit in Celsius is 0.00
+_____________________________
+_____________________________
+Do you want to continue the system?
+To continue enter 1. Else enter anything.
+1
+_____________________________
+_____________________________
+What do you want to change?
+_____________________________
+Fahrenheit
+Kelvin
+Celsius
+You choose: 3
+Enter your option:
+_____________________________
+Fahrenheit to Celsius
+Kelvin to Celsius
+You choose: 2
+Enter the value of Fahrenheit temperature: 100
+The Fahrenheit value is 100.00
+The value of Fahrenheit in Celsius is -173.15
+_____________________________
+_____________________________
+Do you want to continue the system?
+To continue enter 1. Else enter anything.
+2
+_____________________________
+_____________________________
+Thank you!!! To use our system.
+
+_____________________________
+_____________________________
