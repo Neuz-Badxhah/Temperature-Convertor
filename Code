@@ -134,6 +134,7 @@ label:
     end(1);
     if (cont == 1)
      {
+           system("cls");
            goto label;
      }
     else
